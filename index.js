@@ -1,7 +1,7 @@
 // let Person = new Object();
 let table = document.querySelector('#table')
 
-
+//habar
 
 const Person = {
     ism: 'Diyor',
